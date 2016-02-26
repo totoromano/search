@@ -1,0 +1,22 @@
+{
+  "name": "Daily-UI-#022-Search",
+  "version": "1.0.0",
+  "authors": [
+    "cromano @ romanor.com"
+  ],
+  "description": "Coded version of @itsracine's Daily-UI-#022-Search",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "foundation-sites": "~6.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
